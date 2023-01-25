@@ -29,7 +29,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family:"AlfaSlabOne" ;
+    font-family: 'Alfa Slab One', cursive;
 }
 
 .flex-container2 {
@@ -38,7 +38,7 @@ body {
     background-color: grey;
     height: 324px;
     column-gap: 20px;
-    /* gap: 100px; */
+    /* gap: 100px;  */
     /* padding-bottom: 324px; */
     /* padding-right: 7%;  */
     /* padding-left: 7%; */
@@ -64,7 +64,6 @@ body {
 
 h3 {
     font-weight: bold;
-
 }
 
 p {
